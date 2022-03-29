@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FTPdb.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="nameRule" Type="System.String" Scope="User">
+      <Value Profile="(Default)">attdb_db_\d{12}\.BAK</Value>
+    </Setting>
+    <Setting Name="ftpIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://172.18.194.66/</Value>
+    </Setting>
+    <Setting Name="loginId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lym</Value>
+    </Setting>
+    <Setting Name="loginPw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1111</Value>
+    </Setting>
+    <Setting Name="localPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
